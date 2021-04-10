@@ -1,0 +1,113 @@
+.banner{
+	background:url('../img/2.jpeg');
+	background-size: cover;
+	background-position: center;
+	overflow: hidden;
+	height: 500px; 
+}
+.align-center{
+	text-align: center;
+}
+.banner h2{
+	margin-top: 80px;
+	font-size: 80px; 
+	color: white;
+   text-shadow: 2px 2px 4px #000000;
+}
+.body{
+	width: 80%;
+	margin: 0 auto;
+
+}
+.body #hedder{
+	text-align: center;
+	font-size: 70px;
+	font-weight: bold;
+	font-family: vadena;
+}
+#about{
+	height: 580px;
+	
+}
+.web-col-6{
+   	width: 35%;
+   	float: left;
+   	padding: 0 35px;
+
+   }
+article{
+	padding: 0 380px;
+	text-align: center;
+	font-size: 15px;
+}
+footer{
+    	background-color:#2d2d2d;
+        background-size: cover;
+    	color: WHite;
+    	text-align: center;
+        padding: 10px;
+
+    }
+  footer{
+        line-height: 10px;
+        overflow: hidden;
+    }
+   .web-dev{
+   	width: 80%
+   	margin: 0 auto;
+   	overflow: hidden;
+   }
+   .web-dev h2{
+   	text-align: center;
+   }
+   .web-para{
+   	text-align: justify;
+   	width: 60%;
+   }
+   .web-col-4{
+   	width: 25%;
+   	float: left;
+   	padding: 0 35px;
+
+   }
+   .icon{
+   	height: 100px;
+   	width: 200px
+
+   }
+   #Contact{
+   	height: 550px;
+   	background:url('../img/map.png');
+   }
+   #Contact h2{
+   	color: #581845;
+   }
+   .form_class{
+   	height: 50px;
+   	width: 500px;
+   	font-size: 20px;
+   	padding-top: 10px;
+   	margin-top: 10px;
+   	padding-bottom: 10px;
+   	margin-bottom: 10px;
+   	padding-right: 10px;
+   	margin-right: 10px;
+   }
+  .textarea{
+  	height: 150px;
+  	width: 500px;
+  	font-size: 15px;
+  	padding-top: 10px;
+   	margin-top: 10px;
+   	padding-bottom: 10px;
+   	margin-bottom: 10px;
+   	padding-right: 10px;
+   	margin-right: 10px;
+  }
+  .submit{
+  	height: 50px;
+  	width: 500px;
+  	font-size: 20px;
+  	text-align: center;
+
+  }
